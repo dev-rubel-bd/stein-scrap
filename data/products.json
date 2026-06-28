@@ -1,0 +1,226 @@
+{
+  "copper_cathode": {
+    "name": {
+      "en": "99.97% Copper Cathode",
+      "es": "Cátodo de Cobre 99.97%"
+    },
+    "category": "Copper",
+    "desc": {
+      "en": "High-purity electrolytic copper cathode plates. Perfect feed material for wire drawing and copper alloy production.",
+      "es": "Placas de cátodo de cobre electrolítico de alta pureza. Material de alimentación perfecto para trefilado y producción de aleaciones."
+    },
+    "specs": {
+      "en": "Purity: 99.97% min; Size: 914mm x 914mm approx; Grade A LME Registered.",
+      "es": "Pureza: 99.97% mín; Tamaño: 914mm x 914mm aprox; Grado A Registrado en LME."
+    },
+    "price_per_lb": 3.85
+  },
+  "copper_wire": {
+    "name": {
+      "en": "99.99% Copper Wire Scrap",
+      "es": "Alambre de Cobre Chatarra 99.99%"
+    },
+    "category": "Copper",
+    "desc": {
+      "en": "Clean, unalloyed, uncoated copper wire (Bare Bright). Free of hair wire, tin coating, or insulation residues.",
+      "es": "Alambre de cobre limpio, sin alear y sin revestimiento (Bare Bright). Libre de alambre delgado, estañado o residuos de aislamiento."
+    },
+    "specs": {
+      "en": "Purity: 99.99% min; Gauge: 16 gauge and thicker; Millberry Grade equivalent.",
+      "es": "Pureza: 99.99% mín; Calibre: calibre 16 o más grueso; Equivalente a grado Millberry."
+    },
+    "price_per_lb": 3.70
+  },
+  "iron_scrap": {
+    "name": {
+      "en": "Iron Scrap HMS 1&2",
+      "es": "Chatarra de Hierro HMS 1&2"
+    },
+    "category": "Ferrous",
+    "desc": {
+      "en": "Heavy Melting Steel (HMS) grades 1 and 2. Contains black steel, structural components, beams, plate scrap, and industrial machinery parts.",
+      "es": "Acero pesado para fundición (HMS) grados 1 y 2. Contiene acero negro, componentes estructurales, vigas y maquinaria."
+    },
+    "specs": {
+      "en": "Ratio: 80% HMS 1, 20% HMS 2; Thickness: 6mm min for HMS 1; Dimensions: 1.5m x 0.5m max.",
+      "es": "Relación: 80% HMS 1, 20% HMS 2; Espesor: 6mm mín para HMS 1; Dimensiones: 1.5m x 0.5m máx."
+    },
+    "price_per_lb": 0.12
+  },
+  "aluminum_ubc": {
+    "name": {
+      "en": "Aluminum UBC Scrap",
+      "es": "Aluminio UBC (Latas de Bebidas)"
+    },
+    "category": "Aluminum",
+    "desc": {
+      "en": "Used Beverage Cans (UBC) scrap. Clean, compacted or loose aluminum drink containers, magnetically separated from ferrous material.",
+      "es": "Chatarra de latas de bebidas usadas (UBC). Contenedores de aluminio limpios, compactados o sueltos, separados de materiales ferrosos."
+    },
+    "specs": {
+      "en": "Purity: 99% aluminum alloy; Moisture content: 1% max; Free of plastic, sand, and liquids.",
+      "es": "Pureza: 99% aleación de aluminio; Humedad: 1% máx; Libre de plástico, arena y líquidos."
+    },
+    "price_per_lb": 0.70
+  },
+  "aluminum_wire": {
+    "name": {
+      "en": "Aluminum Wire Scrap",
+      "es": "Alambre de Aluminio Chatarra"
+    },
+    "category": "Aluminum",
+    "desc": {
+      "en": "Clean aluminum wire and cable scrap, free of iron attachment, hair wire, insulation, or grease coatings.",
+      "es": "Chatarra limpia de cables y alambres de aluminio, libre de accesorios de hierro, aislamiento o recubrimientos de grasa."
+    },
+    "specs": {
+      "en": "EC Grade; Aluminum Content: 99.5% min; Free of ACSR wire core.",
+      "es": "Grado EC; Contenido de aluminio: 99.5% mín; Libre de núcleo de cable ACSR."
+    },
+    "price_per_lb": 0.85
+  },
+  "aluminum_extrusion": {
+    "name": {
+      "en": "Aluminum Extrusion 6063",
+      "es": "Aluminio de Extrusión 6063"
+    },
+    "category": "Aluminum",
+    "desc": {
+      "en": "Clean aluminum profile sections from window frames, door outlines, and structural tubes. Free of screws, plastic inserts, or glass.",
+      "es": "Secciones de perfiles de aluminio limpios procedentes de marcos de ventanas y puertas. Sin tornillos ni insertos plásticos."
+    },
+    "specs": {
+      "en": "Alloy Grade: 6063; Anodized or painted finishes accepted but priced accordingly; Clean profile scrap.",
+      "es": "Grado de aleación: 6063; Se aceptan acabados anodizados o pintados; Perfil de chatarra limpio."
+    },
+    "price_per_lb": 0.90
+  },
+  "aluminum_ingot": {
+    "name": {
+      "en": "Aluminum Ingot A7",
+      "es": "Lingote de Aluminio A7"
+    },
+    "category": "Aluminum",
+    "desc": {
+      "en": "High-purity primary aluminum ingots. Ideal for re-melting, sheet rolling, extrusion profiles, and casting industries.",
+      "es": "Lingotes de aluminio primario de alta pureza. Ideal para refusión, laminación, extrusión e industrias de fundición."
+    },
+    "specs": {
+      "en": "Purity: 99.7% min (A7 grade standard); Weight: 15kg to 25kg per ingot; Certified chemical breakdown.",
+      "es": "Pureza: 99.7% mín (estándar de grado A7); Peso: 15kg a 25kg por lingote; Análisis químico certificado."
+    },
+    "price_per_lb": 1.15
+  },
+  "aluminum_wheel": {
+    "name": {
+      "en": "Aluminum Wheel Rim Scrap",
+      "es": "Llantas de Aluminio Chatarra"
+    },
+    "category": "Aluminum",
+    "desc": {
+      "en": "Clean automotive aluminum wheels and rims. Must be free of tires, balance weights, valves, chrome plating, or iron shafts.",
+      "es": "Llantas de aluminio limpias para automóviles. Deben estar libres de neumáticos, contrapesos, válvulas o cromo."
+    },
+    "specs": {
+      "en": "Material: T6 casting alloys (primarily A356); Single-piece wheels only; No truck steel wheels.",
+      "es": "Material: aleaciones de fundición T6 (principalmente A356); Llantas de una sola pieza; No de acero."
+    },
+    "price_per_lb": 0.95
+  },
+  "cpu_scrap": {
+    "name": {
+      "en": "CPU Ceramic Processor Scrap",
+      "es": "Procesadores Cerámicos CPU Chatarra"
+    },
+    "category": "E-Scrap",
+    "desc": {
+      "en": "Ceramic CPU processors containing precious metal plating (gold pins and cap). Includes classic Intel 286/386/486/Pentium and AMD equivalents.",
+      "es": "Procesadores CPU cerámicos que contienen baño de metales preciosos (pines de oro). Incluye Intel 286/386/486/Pentium y AMD."
+    },
+    "specs": {
+      "en": "Grade: Gold Cap or Double-sided Gold; Free of heat sinks, cooling fans, and socket clips.",
+      "es": "Clase: Gold Cap o pines dorados doble cara; Libre de disipadores de calor, ventiladores y clips."
+    },
+    "price_per_lb": 12.50
+  },
+  "occ_paper": {
+    "name": {
+      "en": "OCC Waste Paper Scrap",
+      "es": "Cartón Corrugado Desecho OCC"
+    },
+    "category": "Paper",
+    "desc": {
+      "en": "Old Corrugated Cardboard (OCC) packaging box scrap. Clean, dry, baled cardboard from retail outlets and distribution centers.",
+      "es": "Chatarra de cajas de cartón corrugado viejo (OCC). Cartón limpio, seco y embalado de tiendas y centros de distribución."
+    },
+    "specs": {
+      "en": "Grade: OCC 11 or OCC 12; Moisture: 12% max; Outthrows/Prohibited materials: 1% max; Baled with wire.",
+      "es": "Grado: OCC 11 o OCC 12; Humedad: 12% máx; Materiales prohibidos: 1% máx; Embalado con alambre."
+    },
+    "price_per_lb": 0.05
+  },
+  "white_paper": {
+    "name": {
+      "en": "White Paper Scrap",
+      "es": "Papel Blanco Chatarra"
+    },
+    "category": "Paper",
+    "desc": {
+      "en": "Sorted white ledger paper scrap. Clean, unprinted or lightly printed office papers, free of carbon paper, colored envelopes, or plastic binders.",
+      "es": "Papel blanco clasificado. Papel de oficina limpio, sin imprimir o ligeramente impreso, libre de papel carbón o carpetas."
+    },
+    "specs": {
+      "en": "SOP Grade (Sorted Office Paper); Moisture: 10% max; Must be shredded or baled; Free of newspapers.",
+      "es": "Grado SOP (Papel de Oficina Clasificado); Humedad: 10% máx; Debe estar triturado o embalado."
+    },
+    "price_per_lb": 0.08
+  },
+  "yellow_brass": {
+    "name": {
+      "en": "Yellow Honey Brass Scrap",
+      "es": "Latón Amarillo Honey Chatarra"
+    },
+    "category": "Brass",
+    "desc": {
+      "en": "Mixed yellow brass castings, tubing, and rolled brass plates (Honey grade). Free of manganese bronze, aluminum bronze, and iron attachments.",
+      "es": "Fundiciones de latón amarillo mixto, tuberías y placas (grado Honey). Libre de bronce al manganeso y hierro."
+    },
+    "specs": {
+      "en": "Copper content: 62% min; Lead/Tin elements accepted; Free of plated chrome parts and iron fittings.",
+      "es": "Contenido de cobre: 62% mín; Se aceptan elementos de plomo/estaño; Libre de piezas cromadas."
+    },
+    "price_per_lb": 2.45
+  },
+  "pet_plastic": {
+    "name": {
+      "en": "PET Plastic Bottle Scrap",
+      "es": "Plástico PET Chatarra (Botellas)"
+    },
+    "category": "Plastics",
+    "desc": {
+      "en": "Clear and blue-tinted polyethylene terephthalate (PET) bottles, crushed or baled. Caps and labels can be attached but sorted is preferred.",
+      "es": "Botellas de tereftalato de polietileno (PET) transparentes y teñidas de azul, trituradas o embaladas."
+    },
+    "specs": {
+      "en": "Grade A scrap; PVC content: 50ppm max; Cleaned, washed, free of toxic chemicals and sludge.",
+      "es": "Chatarra grado A; Contenido de PVC: 50ppm máx; Limpio, lavado, libre de químicos tóxicos."
+    },
+    "price_per_lb": 0.15
+  },
+  "ldpe_film": {
+    "name": {
+      "en": "LDPE & LLDPE Film Scraps",
+      "es": "Película de Plástico LDPE y LLDPE"
+    },
+    "category": "Plastics",
+    "desc": {
+      "en": "Low-density polyethylene transparent film wraps and pallet stretch films. Baled, clean, and dry stretch wraps.",
+      "es": "Envolturas de película transparente de polietileno de baja densidad y películas estirables para palés. Embaladas y secas."
+    },
+    "specs": {
+      "en": "Grade 99/1 (99% clean clear, 1% color); Free of paper labels, food residues, dirt, and strap bands.",
+      "es": "Grado 99/1 (99% limpio y transparente, 1% de color); Libre de etiquetas de papel, residuos y suciedad."
+    },
+    "price_per_lb": 0.18
+  }
+}
